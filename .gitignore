@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GeminiRead/obj
+/GeminiRead/bin/Debug/net8.0
+/.vs/GeminiRead/FileContentIndex/e43337eb-933f-4ca8-8dcf-b8778e3b5390.vsidx
+*.vsidx
+*.v2
+*.suo
